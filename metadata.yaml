@@ -1,0 +1,31 @@
+_repo: Bulletin-de-Lille-1915-12--13-Publi--sous-le-contr-le-de-l-autorit--allemande_16388
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_bookshelf: Bulletin de Lille
+gutenberg_issued: '2005-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16388'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lille (France) -- History'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Periodicals'
+- !lcsh 'World War, 1914-1918 -- France'
+title: "Bulletin de Lille, 1915-12\r\nPublié sous le contrôle de l'autorité allemande"
+url: http://www.gutenberg.org/ebooks/16388
