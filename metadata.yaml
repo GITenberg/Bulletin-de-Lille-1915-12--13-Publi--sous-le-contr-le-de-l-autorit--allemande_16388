@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16388#Bulletin-de-Lille-1915-12--13-Publi--sous-le-contr-le-de-l-autorit--allemande
 gutenberg_bookshelf: Bulletin de Lille
 gutenberg_issued: '2005-07-29'
 gutenberg_type: Text
